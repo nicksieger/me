@@ -13,6 +13,8 @@ My GPG Key: [nicksieger.asc](nicksieger.asc)
 - [Handlebar phone mount](https://www.quadlockcase.com/collections/shop-mounts/products/out-front-mount?variant=13538735030347)
 - [Phone mount case (iPhone XR)](https://www.quadlockcase.com/collections/shop-apple/products/iphone-case-all-devices)
 - Gear cleaning brush ([example](https://www.eriksbikeshop.com/park-tool-gsc-1-gearclean-brush-pa7945/p?skuId=53160))
+- Jersey, size L ([one example](https://www.eriksbikeshop.com/pearl-izumi-quest-jersey-2020-pr3e24255/p?skuId=8054115#), [another example](https://www.eriksbikeshop.com/specialized-rbx-jersey-2020-pr3e24120/p?skuId=8053026))
+
 
 ## Tools
 
