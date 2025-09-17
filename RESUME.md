@@ -10,12 +10,27 @@ https://github.com/nicksieger
 
 ## Summary
 
-I am a seasoned developer with over 20 years software development experience spanning enterprise, open source, and software-as-a-service. I enjoy solving problems in a collaborative, continuous inprovement environment with a focus on developer efficiency and making the process of writing software full of enjoyment and discovery.  I flourish most in situations where I can have an impact on the developer experience by writing software to be used by other software developers, from open source software to external API design and implementation to internal tooling and CI/CD pipelines.
+I am a seasoned developer with over 25 years software development experience spanning enterprise, open source, and software-as-a-service. I enjoy solving problems in a collaborative, continuous inprovement environment with a focus on developer efficiency and making the process of writing software full of enjoyment and discovery.  I flourish most in situations where I can have an impact on the developer experience by writing software to be used by other software developers, from open source software to external API design and implementation to internal tooling and CI/CD pipelines.
 
 ## Experience
 
+#### Staff Engineer
+_May 2022 &mdash; present_: Docker, Minneapolis, MN  
+
+- Technical lead for team building cloud-based developer tooling integrated into Docker Desktop
+- Built OpenTelemetry instrumentation into Docker Desktop
+- Maintained and fixed bugs in Docker Desktop's Kubernetes support
+- Maintained and improve Docker Compose and supported public Compose users
+- Golang, Kubernetes, Docker, Docker Desktop, Docker Compose, OpenTelemetry, AWS compute (EC2, EKS)
+
+#### Software Tools Engineer
+_October 2021 &mdash; May 2022_: Tilt.dev/Windmill, Minneapolis, MN  
+
+- Proposed and delivered features for Tilt, a development environment toolkit, including Docker Compose functionality and a VS Code extension for editing Tilt configurations.
+- Golang, Kubernetes, Docker, Docker Compose, Language Server Protocol (LSP), VS Code extensions
+
 #### Principal Software Engineer
-_June 2016 &mdash; present_: SportsEngine, Minneapolis, MN  
+_June 2016 &mdash; October 2021_: SportsEngine, Minneapolis, MN  
 
 - Created and co-maintained scripts for maintaining development environments and launching applications for all developers at the company
 - Created libraries for Rails applications to do standardized logging, messaging, database sequential UUIDs, API documentation/testing, change data capture, and API gateway creation
